@@ -7,4 +7,4 @@ Sabendo que fibo é 0, print(fibo, end=', ' if cont != quant-1 else '.\n') come�
 #### cálculo com atribuição dupla
 fibo recebe fibo+aux ao mesmo tempo que aux recebe fibo, aux guarda o antigo valor de fibo pra somar com o novo valor gerado e, dessa forma, a lógica se conclui
 ## Despedidas
-Espero que tenham gostado da solução, esse é o primeiro repositório que escrevo w gostaria muito de saber a opinião de vocês sobre o artigo. Lembrando, o objetivo desse pequeno tutorial era mostrar uma forma diferente e simples de codar a sequência de fibonacci, que é um exercício tão clássico no mundo da programação.
+Espero que tenham gostado da solução, esse é o primeiro repositório que escrevo e gostaria muito de saber a opinião de vocês sobre o artigo. Lembrando, o objetivo desse pequeno tutorial era mostrar uma forma diferente e simples de codar a sequência de fibonacci, que é um exercício tão clássico no mundo da programação.
